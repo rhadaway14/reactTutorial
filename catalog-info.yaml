@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: react-example
+  description: React example description.
+  tags:
+    - go
+    - website
+spec:
+  type: service
+  lifecycle: production
+  owner: devops
