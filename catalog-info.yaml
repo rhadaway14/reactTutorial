@@ -6,6 +6,8 @@ metadata:
   tags:
     - go
     - website
+  annotations:
+    github.com/project-slug: value
 spec:
   type: service
   lifecycle: production
